@@ -13,6 +13,7 @@ public class Input {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         printSum(n);
+        sc.close();
     }
     
 }

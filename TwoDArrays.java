@@ -23,6 +23,8 @@ public class TwoDArrays {
             }
             System.out.println();
         }
+        sc.close();
     }
+    
     
 }

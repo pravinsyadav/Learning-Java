@@ -27,5 +27,7 @@ public class OneDArrays {
         for(int i = 0; i<size; i++){
             System.out.print(numbers[i] +" ");    // printing the values of array
         }
+        sc.close();
     }
+    
 }
