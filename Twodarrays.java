@@ -23,6 +23,7 @@ public class Twodarrays {
             }
             System.out.println();
         }
+        sc.close();
     }
     
 }
